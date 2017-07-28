@@ -1,2 +1,0 @@
-# softtekProject
-Softtek Project
